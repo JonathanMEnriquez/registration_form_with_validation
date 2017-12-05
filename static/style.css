@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+}
+
+form{
+    display: inline-block;
+    text-align: center;
+    width: 90%;
+    margin-left: 4.5%;
+}
+
+form input{
+    display: block;
+    width: 25%;
+    position: relative;
+    left: 37%;
+    margin-top: 2px;
+    margin-bottom: 5px;
+}
+
+#submit{
+    width: 100px;
+    background-color: lightgray;
+    margin-top: 10px;
+    position: relative;
+    left: 46%;
+}
+
+.error{
+    color: red;
+    text-align: center;
+}
+
+.success{
+    color: green;
+    font-size: 20px;
+    text-align: center;
+}
